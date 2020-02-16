@@ -1,0 +1,34 @@
+{
+  "name": "ajonp-ajsbooks-nextjs",
+  "version": "1.0.0",
+  "description": "nyamm next js nyoba2",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^7.8.2",
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "rxjs": "^6.5.4",
+    "rxfire": "^3.9.11"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.19",
+    "typescript": "^3.7.5"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJONPLLC/ajonp-ajsbooks-nextjs.git"
+  },
+  "author": "nyamm epiii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJONPLLC/ajonp-ajsbooks-nextjs/issues"
+  },
+  "homepage": "https://github.com/AJONPLLC/ajonp-ajsbooks-nextjs#readme"
+}
